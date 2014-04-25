@@ -2,4 +2,4 @@
 * Purpose
 Quickly create the hierarchical files and folders
 * Usage 
-** ./createFileDir test
+./createFileDir test
