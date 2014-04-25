@@ -1,0 +1,10 @@
+tmp/
+	a/
+		abc.lsp
+	b/
+	c/
+tmp2/
+	d/
+	e/
+tmp3/
+	f/
