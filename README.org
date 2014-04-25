@@ -1,5 +1,12 @@
 * My OS:Linux (x86_64-gcc3)
+
 * Purpose
 Quickly create the hierarchical files and folders
+
 * Usage 
 ./createFileDir test
+
+* Todo 
+command line argument -- getopt (maybe) 
+
+
