@@ -3,6 +3,9 @@
 * Purpose
 Quickly create the hierarchical files and folders
 
+* Require package
+*** quicklisp should be installed
+
 * Usage 
 sbcl --noinform --load createFileDir.lisp --quit --end-toplevel-options createFileDir.lisp -i test
 
