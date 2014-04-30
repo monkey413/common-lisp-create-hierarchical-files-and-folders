@@ -7,5 +7,4 @@ Quickly create the hierarchical files and folders
 sbcl --noinform --load createFileDir.lisp --quit --end-toplevel-options createFileDir.lisp -i test
 
 * Todo 
-** DONE command line argument -- getopt (maybe)
 
